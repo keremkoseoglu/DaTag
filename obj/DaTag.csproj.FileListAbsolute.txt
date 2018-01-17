@@ -1,0 +1,18 @@
+D:\Development\Zorlu\DaTag\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Zorlu\DaTag\obj\Debug\DaTag.DaTagView.resources
+D:\Development\Zorlu\DaTag\obj\Debug\DaTag.csproj.GenerateResource.Cache
+D:\Development\Zorlu\DaTag\bin\Debug\DaTag.dll
+D:\Development\Zorlu\DaTag\bin\Debug\DaTag.pdb
+D:\Development\Zorlu\DaTag\bin\Debug\DaTag.tlb
+D:\Development\Zorlu\DaTag\obj\Debug\DaTag.dll
+D:\Development\Zorlu\DaTag\obj\Debug\DaTag.pdb
+D:\Development\Zorlu\DaTag\obj\Debug\DaTag.DaTagMulti.resources
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\bin\Debug\DaTag.dll
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\bin\Debug\DaTag.pdb
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\bin\Debug\DaTag.tlb
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\DaTag.DaTagMulti.resources
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\DaTag.DaTagView.resources
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\DaTag.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\DaTag.dll
+\\vmware-host\Shared Folders\Cozumevi\Development\Zorlu\DaTag\obj\Debug\DaTag.pdb

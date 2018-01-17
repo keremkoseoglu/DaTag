@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaTag", "DaTag.csproj", "{A640BB3D-42C7-4660-8AA2-1E800AC34181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaTagTest", "..\DaTagTest\DaTagTest.csproj", "{15F03BA0-EBC3-4929-B595-D50C553DAD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaTagMultiTest", "..\DaTagMultiTest\DaTagMultiTest.csproj", "{D85E92DF-6988-4F00-A54F-AE64BB33476A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A640BB3D-42C7-4660-8AA2-1E800AC34181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A640BB3D-42C7-4660-8AA2-1E800AC34181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A640BB3D-42C7-4660-8AA2-1E800AC34181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A640BB3D-42C7-4660-8AA2-1E800AC34181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F03BA0-EBC3-4929-B595-D50C553DAD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F03BA0-EBC3-4929-B595-D50C553DAD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F03BA0-EBC3-4929-B595-D50C553DAD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F03BA0-EBC3-4929-B595-D50C553DAD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85E92DF-6988-4F00-A54F-AE64BB33476A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85E92DF-6988-4F00-A54F-AE64BB33476A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85E92DF-6988-4F00-A54F-AE64BB33476A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85E92DF-6988-4F00-A54F-AE64BB33476A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
